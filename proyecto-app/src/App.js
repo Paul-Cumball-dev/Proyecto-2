@@ -1,10 +1,12 @@
-import Home from "./Components/Home/Home"
+//import Home from "./Components/Home/Home"
+import Characters from "./Components/Characters/Characters";
 import './App.css';
 
-function App(){
+ function App(){
   return (
     <div>
-      <Home/>
+      
+      <Characters/>
     </div>
 );
 }
